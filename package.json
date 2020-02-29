@@ -1,0 +1,16 @@
+{
+  "name": "jakoshutters",
+  "version": "0.0.1",
+  "description": "web app to control my home shutters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxime Journaux <maxime.journaux@protonmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-static": "^5.0.0"
+  }
+}
